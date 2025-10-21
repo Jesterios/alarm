@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Будильник</string>
+    <string name="set_alarm_button">Установить будильник</string>
+    <string name="alarm_set">Будильник установлен!</string>
+    <string name="illidan_waking">Иллидан будит Сергея!</string>
+    <string name="alarm_stopped">Будильник отключен! Доброе утро, Сергей!</string>
+    <string name="listening">Слушаю...</string>
+    <string name="command_not_recognized">Команда не распознана. Скажите \"отключись\"</string>
+</resources>
